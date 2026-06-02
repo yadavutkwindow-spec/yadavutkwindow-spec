@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hey, I'm Utkarsh
 
-<!--
-**yadavutkwindow-spec/yadavutkwindow-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Builder | AI/ML | Cloud  
 
-Here are some ideas to get you started:
+I build real-world projects and improve them step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Projects
+
+### 🎬 MyFlix Pro
+Netflix-style streaming platform with modern UI  
+- Dynamic frontend  
+- Backend coming soon  
+
+### 🎮 Tracko
+Gamified productivity app  
+- XP system  
+- Levels & rewards  
+- Task tracking  
+
+---
+
+## 🧠 Learning
+- AI/ML fundamentals  
+- Cloud & DevOps  
+- Full-stack development  
+
+---
+
+## 🛠️ Tech Stack
+Python • Git  
+
+---
+
+## 📊 GitHub Stats
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavutkwindow-spec&show_icons=true)
+
+---
+
+## 🎯 Goal
+Become an AI/ML Engineer and build real-world products
+
+---
+
+## 📫 Contact
+yadavutkwindow@gmail.com
